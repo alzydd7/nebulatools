@@ -75,7 +75,7 @@ jobs:
                   wv.getSettings().setJavaScriptEnabled(true);
                   wv.getSettings().setDomStorageEnabled(true);
                   wv.setWebViewClient(new WebViewClient());
-                  wv.loadUrl("https://URL-NETLIFY-LO");
+                  wv.loadUrl("https://alzyddnebulaverse.netlify.app/");
                   setContentView(wv);
               }
           }
